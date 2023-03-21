@@ -1,0 +1,58 @@
+body {
+   font-family: Verdana, sans-serif;
+   background-color: black;
+   text-align: center;
+   display: block;
+   margin: 8px;
+}
+
+#titlee h1 {
+ font-size: 50px;
+ color: white;
+ font-weight: normal;
+}
+
+h1 {
+   color: white;
+   font-size: 42px;
+   font-weight: 300;
+   margin: 40px;
+}
+
+h6 {
+   font-size: 16px;
+   color: aquamarine;
+}
+
+a {
+   text-decoration: underline;
+}
+
+a:link {
+   color: aquamarine;
+}
+
+a:visited {
+   color: aquamarine;
+}
+
+p {
+   font-size: 21px;
+   color: gray;
+}
+
+img {
+   margin: 25px auto;
+   display: block;
+}
+
+video {
+   align-self: center;
+}
+
+footer {
+   text-align: right;
+   color: gray;
+   margin: 30px 0 30px 0;
+   font-size: 26px;
+}
